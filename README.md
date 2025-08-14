@@ -62,7 +62,7 @@
 
 ## 🤝 Contributions
 
-Contributions welcome! Open a [pull request](https://github.com/dakotamin/awesome-launch-platforms/pulls) or [issue](https://github.com/dakotamin/awesome-launch-platforms/issues) to add more launch platforms.
+Contributions welcome! Open a [pull request](https://github.com/DirectorySurf/awesome-launch-platforms/pulls) or [issue](https://github.com/DirectorySurf/awesome-launch-platforms/issues) to add more launch platforms.
 
 ---
 
