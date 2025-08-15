@@ -12,6 +12,7 @@
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
+* [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 
 ---
 
