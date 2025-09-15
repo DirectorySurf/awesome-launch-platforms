@@ -36,9 +36,11 @@
 ## 🧠 AI & Tool-Focused Launch Directories
 
 * [Altern](https://altern.ai) – AI product directory for makers.
+* [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
+* [AI Dir](https://aidir.wiki) - First AI Directory of the world!
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
-* [Futurepedia](https://www.futurepedia.io) – AI tools aggregator with launch listings.
+* [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
@@ -50,6 +52,7 @@
 * [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 * [Side Projectors](https://www.sideprojectors.com) – Promote and even sell your side project.
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
+* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 
 ---
 
