@@ -14,6 +14,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [DevHunt](https://devhunt.org/) – Developer-focused platform for launching and discovering tech products.
 
 ---
 
