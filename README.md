@@ -14,6 +14,10 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [Aura++](https://auraplusplus.com) – Launch and promote your AI products, startups, and digital tools to a growing audience.
+* [Early Hunt](https://earlyhunt.com) – Launch your startup early and get visibility among early adopters and makers.
+* [Indie Hunt](https://indiehunt.io) – Discover and showcase indie projects built by makers around the world.
+  
 
 ---
 
@@ -44,7 +48,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
-
+* [UNO Directory](https://uno.directory) – Curated directory of useful tools, startups, and digital products for discovery.
 
 ---
 
@@ -53,7 +57,7 @@
 * [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 * [Side Projectors](https://www.sideprojectors.com) – Promote and even sell your side project.
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
-* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
+* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools.
 
 ---
 
