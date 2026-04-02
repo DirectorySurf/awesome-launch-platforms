@@ -63,6 +63,7 @@
 * [Carrd](https://carrd.co) – Quickly spin up a landing page for your launch.
 * [Substack](https://substack.com) – Build an audience and launch with a newsletter.
 * [Startup Tools List](https://startuptoolslist.com) – Discover tools to help launch and grow.
+* [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) – Discover long-tail product submission sites from public alternatives pages like SaaSHub.
 
 ---
 
