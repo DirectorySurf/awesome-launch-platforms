@@ -45,6 +45,7 @@
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
+* [AIHumanLove](https://aihumanlove.com) – Free AI tools directory with 1,500+ tools, prompt library, courses, and interactive experiments.
 
 ---
 
