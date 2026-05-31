@@ -44,6 +44,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [ZPlatform.ai](https://zplatform.ai/) – Directory of AI tools and SaaS deals, each tested hands-on with a Buy/Wait/Skip verdict and organized by category.
 
 
 ---
