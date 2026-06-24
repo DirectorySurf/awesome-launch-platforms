@@ -75,3 +75,7 @@ Contributions welcome! Open a [pull request](https://github.com/DirectorySurf/aw
 ## 📄 License
 
 [MIT](LICENSE)
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of tools, software, and digital resources.
