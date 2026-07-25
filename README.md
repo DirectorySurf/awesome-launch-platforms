@@ -7,6 +7,7 @@
 ## 🌐 General Launch Platforms
 
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
+* [Crowdstax](https://www.crowdstax.com/) – Startup Launch platform for AI tools, SaaS, Web Apps, Games, and more. High quality backlinks. Free.
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
