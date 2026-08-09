@@ -14,6 +14,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [Toolfound](https://toolfound.com) – Launch platform and tool directory with a transparent queue, mandatory ownership verification, and an agent-native MCP submission path.
 
 ---
 
