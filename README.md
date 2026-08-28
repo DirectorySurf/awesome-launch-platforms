@@ -14,6 +14,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [10015 Product Finder](https://10015.io/product-finder) – Free product & SaaS directory with manual review; every listing gets its own page, optional featuring for extra visibility.
 
 ---
 
