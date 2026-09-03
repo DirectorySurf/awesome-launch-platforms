@@ -7,6 +7,7 @@
 ## 🌐 General Launch Platforms
 
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
+* [MustSee](https://mustsee.dev) – Numbered directory for new product launches.
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
@@ -14,6 +15,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [LaunchFree](https://launchfree.io/) – Free launch directory (The Runway) with permanent listings.
 
 ---
 
@@ -45,7 +47,6 @@
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
-
 ---
 
 ## 🗂 Niche or Regional Launch Platforms
@@ -53,7 +54,7 @@
 * [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 * [Side Projectors](https://www.sideprojectors.com) – Promote and even sell your side project.
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
-* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
+* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools.
 
 ---
 
