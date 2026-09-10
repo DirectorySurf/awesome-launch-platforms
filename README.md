@@ -45,6 +45,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [VibeHacker](https://vibehacker.com) – Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 
 ---
