@@ -65,6 +65,7 @@
 * [Carrd](https://carrd.co) – Quickly spin up a landing page for your launch.
 * [Substack](https://substack.com) – Build an audience and launch with a newsletter.
 * [Startup Tools List](https://startuptoolslist.com) – Discover tools to help launch and grow.
+* [SaaS Launch Directories Explorer](https://themerchcog.github.io/saas-launch-directories-2026/) – Interactive directory explorer and DoFollow backlink verification tools for SaaS and AI founders.
 
 ---
 
