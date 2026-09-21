@@ -56,6 +56,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
+* [AI Indie Maker](https://indiemaker.cn) – Searchable directory of 2,900+ products built by Chinese indie developers, synced daily from GitHub.
 
 ---
 
