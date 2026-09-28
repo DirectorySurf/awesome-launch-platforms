@@ -8,6 +8,7 @@
 
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 * [Altern](https://altern.ai) – AI product directory for makers.
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
