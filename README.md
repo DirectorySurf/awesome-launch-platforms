@@ -62,6 +62,7 @@
 * [Side Projectors](https://www.sideprojectors.com) – Promote and even sell your side project.
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
+* [Unikt](https://unikt.fr) – Discover and launch French SaaS and startups, built around a French-based community looking for visibility, SEO backlinks, and product discovery.
 
 ---
 
