@@ -15,6 +15,7 @@
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [Directory Dash](https://directorydash.io/directory) – A launch directory where the submission form is a rage game about directory rejection. Reach a flag to be listed (nofollow); clear the level for a dofollow link. Free, no signup.
 
 ---
 
