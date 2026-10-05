@@ -8,6 +8,7 @@
 
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 * [Altern](https://altern.ai) – AI product directory for makers.
+* [Go-Publicly](https://go-publicly.com) - Stop Building in Silence
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
