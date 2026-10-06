@@ -14,7 +14,8 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
-* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
+* [LaunchAmp Launch Lounge](https://launchamp.eu/tools) – Free directory of indie tools: no upvotes, no rankings, newest first, followed links. Comes with free launch data for five boards.
 
 ---
 
@@ -71,6 +72,7 @@
 * [Carrd](https://carrd.co) – Quickly spin up a landing page for your launch.
 * [Substack](https://substack.com) – Build an audience and launch with a newsletter.
 * [Startup Tools List](https://startuptoolslist.com) – Discover tools to help launch and grow.
+* [LaunchAmp Launch Planner](https://launchamp.eu/launch-planner) – Free, no account: enter the upvotes you can bring and see on which of five launch boards (Product Hunt, Uneed, Show HN, Fazier, SmolHunt) that was enough for the top ten, from measured launch days.
 
 ---
 
