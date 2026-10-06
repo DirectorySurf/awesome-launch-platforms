@@ -14,7 +14,8 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
-* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
+* [deskkit Launches](https://deskkit.app/launch) – Free launch directory that measures each product's HTTPS, security headers and trackers, with a human review before listing.
 
 ---
 
