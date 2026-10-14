@@ -49,6 +49,13 @@
 
 ---
 
+## 📱 Launch Platforms for Apps
+
+* [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
+* [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
+
+---
+
 ## 🗂 Niche or Regional Launch Platforms
 
 * [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
@@ -56,7 +63,6 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
-* [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
 
 
 ---
