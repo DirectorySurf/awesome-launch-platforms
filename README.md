@@ -6,6 +6,8 @@
 
 ## 🌐 General Launch Platforms
 
+* [StarTap](https://startap.cc) – Free startup directory combining public project pages with a 3D clicker game and leaderboards.
+
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
