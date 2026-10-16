@@ -45,6 +45,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [Public Prompts](https://www.publicprompts.art/) – AI tools directory with paid, editorially reviewed owner submissions (US$19.99 once plus tax).
 
 
 ---
