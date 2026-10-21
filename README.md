@@ -53,6 +53,7 @@
 
 * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
 * [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
+* [Launch Indie Apps](https://launchindieapps.com) – Launch platform and directory for iOS apps by indie makers. A person reviews every app, it's a one-time price, and launch posts come with each listing.
 
 ---
 
