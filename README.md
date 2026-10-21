@@ -73,6 +73,7 @@
 * [Carrd](https://carrd.co) – Quickly spin up a landing page for your launch.
 * [Substack](https://substack.com) – Build an audience and launch with a newsletter.
 * [Startup Tools List](https://startuptoolslist.com) – Discover tools to help launch and grow.
+* [LaunchGrill Directories](https://launchgrill.com/directories) – Startup and launch directories, each checked by a person in the last 90 days: whether a free route exists, the link type where measured, the queue, and the date checked.
 
 ---
 
