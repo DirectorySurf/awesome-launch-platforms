@@ -43,6 +43,7 @@
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
+* [RespawnStack](https://respawnstack.com) – Directory of AI tools for game development.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
