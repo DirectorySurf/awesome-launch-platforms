@@ -6,6 +6,7 @@
 
 ## 🌐 General Launch Platforms
 
+* [FoundrList](https://www.foundrlist.com) – Weekly launch cohorts for SaaS and AI tools, with a free launch option and a public leaderboard.
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
