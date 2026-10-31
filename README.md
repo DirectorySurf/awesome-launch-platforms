@@ -52,6 +52,7 @@
 ## 📱 Launch Platforms for Apps
 
 * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
+* [MacPip](https://macpip.com) – Free directory and daily launch site for Mac apps, with followed links, no badge required, and apps checked by a person.
 * [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
 
 ---
