@@ -24,6 +24,9 @@
 * [Makerlog](https://getmakerlog.com) – Launch and build in public with a supportive community.
 * [WIP](https://wip.co) – Work on your ideas and get noticed by fellow makers.
 * [Side Project Stack](https://sideprojectstack.com) – Showcase your product and tech stack to other indie makers.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ---
 
