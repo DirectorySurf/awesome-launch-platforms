@@ -24,6 +24,7 @@
 * [Makerlog](https://getmakerlog.com) – Launch and build in public with a supportive community.
 * [WIP](https://wip.co) – Work on your ideas and get noticed by fellow makers.
 * [Side Project Stack](https://sideprojectstack.com) – Showcase your product and tech stack to other indie makers.
+* [What I Am Building](https://whatiambuilding.com/directory) – Free one-link page where makers list every project with status and progress; claimed pages appear in a public builder directory.
 
 ---
 
