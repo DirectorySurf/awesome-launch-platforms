@@ -45,6 +45,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [MeetNewAI](https://meetnewai.com) – Free bilingual directory of AI tools, AI games, and MCP servers by the job you need done.
 
 
 ---
