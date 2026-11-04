@@ -24,6 +24,7 @@
 * [Makerlog](https://getmakerlog.com) – Launch and build in public with a supportive community.
 * [WIP](https://wip.co) – Work on your ideas and get noticed by fellow makers.
 * [Side Project Stack](https://sideprojectstack.com) – Showcase your product and tech stack to other indie makers.
+* [Project Radar](https://getprojectradar.com) – Free directory where indie builders submit projects; ones that fit get a published Project Note.
 
 ---
 
