@@ -63,6 +63,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [XMRList](https://xmrlist.com) – Hand-reviewed directory of businesses and services that accept Monero (XMR).
 
 
 ---
