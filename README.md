@@ -53,6 +53,8 @@
 
 * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
 * [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
+* [PWA Directory](https://pwa.directory) – Curated directory of installable Progressive Web Apps; free submission.
+* [WebApps Directory](https://webapps.directory) – Curated directory of web apps that run in the browser; free submission.
 
 ---
 
@@ -63,6 +65,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [Boilerplates Directory](https://boilerplates.directory) – Compare SaaS starter kits and boilerplates by stack and features; free submission.
 
 
 ---
