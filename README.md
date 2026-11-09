@@ -15,6 +15,7 @@
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [Launchef](https://launchef.com) - Free launch platform with live upvotes, reviews and weekly awards. No paid spots or boosts, and launches earn a dofollow backlink.
 
 ---
 
