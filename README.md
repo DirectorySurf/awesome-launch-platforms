@@ -45,6 +45,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [launched.tools](https://launched.tools/submit) – Submit your AI tool for a hand-scored review and a free dofollow listing.
 
 
 ---
