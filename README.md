@@ -63,6 +63,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [KidCreatorTools](https://kidcreatortools.com) – Directory of AI tools for making children's content (story videos, kid voices, kids songs, picture books, coloring pages); free listing for makers.
 
 
 ---
