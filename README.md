@@ -45,6 +45,8 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+*  [AITrustList](https://aitrustlist.com) – AI tools directory ranked by verified traffic and growth — 3,000+ tools across 200+ categories, ranked by real monthly visits and month-over-month growth, not paid placement.
+*  [AIHuntList](https://aihuntlist.com) – Navigation hub for 3,000+ AI apps across 200+ categories.
 
 
 ---
