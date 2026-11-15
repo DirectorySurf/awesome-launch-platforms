@@ -31,6 +31,7 @@
 
 * [Hacker News – Show HN](https://news.ycombinator.com/show) – Share your product with the Hacker News community.
 * [Lobsters](https://lobste.rs) – Developer-focused product and tech news (invite-only).
+* [daily.dev for Startups](https://daily.dev/startups/) – Gives a developer tool its own page on daily.dev and puts its posts in the feeds of developers who follow its topics.
 * [Reddit (/r/startups)](https://www.reddit.com/r/startups/) – Launch posts welcome in relevant subreddits like /r/startups and /r/Entrepreneur.
 
 ---
