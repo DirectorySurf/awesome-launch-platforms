@@ -15,6 +15,7 @@
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [TheSaaSDir](https://thesaasdir.com) – Directory of SaaS and AI products with free badge listings and paid featured listings.
 
 ---
 
@@ -45,6 +46,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [TheAIToolsDir](https://theaitoolsdir.com) – Directory of AI tools with free badge listings and paid featured listings.
 
 
 ---
