@@ -63,6 +63,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [NeutralPick](https://neutralpick.com/list-your-company.html) – Free list of software companies for buyers comparing vendors; no paid ranking.
 
 
 ---
