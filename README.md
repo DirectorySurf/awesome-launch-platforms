@@ -39,6 +39,7 @@
 
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
+* [Add AI Directory](https://www.addaidirectory.com) – A curated directory of AI agents organized by category, with editorial reviews and free submissions.
 * [AI Dir](https://aidir.wiki) - First AI Directory of the world!
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
