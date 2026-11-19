@@ -63,6 +63,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [Checked](https://checked.tools) – Directory of AI tools with starting prices read from each tool's own pricing page; free listing for makers
 
 
 ---
