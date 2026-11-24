@@ -63,6 +63,7 @@
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
 * [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
 * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
+* [AI Webcatalog](https://ai-webcatalog.space/ru) – Russian-language AI tools directory with verified pricing, local payment details, and free tool submissions.
 
 
 ---
