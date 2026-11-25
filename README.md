@@ -45,6 +45,7 @@
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+* [draftlab](https://getdraftlab.com/launch) – The community platform where people share what they make with AI, and how they make it, with the tools, prompts and costs behind it.
 
 
 ---
