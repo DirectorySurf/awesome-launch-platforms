@@ -15,6 +15,7 @@
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
+* [TestMyBuild](https://testmybuild.app) - App builders list a web, iOS, Android or desktop app and get first users and honest written feedback from real testers, paid in credits.
 
 ---
 
