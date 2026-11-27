@@ -10,6 +10,7 @@
 * [Altern](https://altern.ai) – AI product directory for makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
+* [SaaSCity](https://saascity.io) – Gamified 3D SaaS directory where every listing becomes a building on a live interactive city map.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
